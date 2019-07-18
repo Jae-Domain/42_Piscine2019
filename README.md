@@ -25,4 +25,5 @@ Day 05:
 ex00: OK | ex01: KO | ex02: OK | ex03: OK | ex04: KO | ex05: Timeout | ex06: OK | ex07: OK | ex08: OK | ex09: OK | ex10: KO | ex11: OK | ex12: KO | ex13: KO | ex14: KO | ex15: OK | ex16: OK | ex17: OK | ex18: KO | ex19: OK | ex20: SIGABORT | ex21: Nothing turned in | ex22: Nothing turned in | ex23: Nothing turned in
 
 Day 06:
-ex00: OK | ex01: Does not compile | ex02: OK | ex03: OK | ex04: OK
+ex00: OK |  ̶e̶x̶0̶1̶:̶ ̶D̶o̶e̶s̶ ̶n̶o̶t̶ ̶c̶o̶m̶p̶i̶l̶e̶ ̶ | ex02: OK | ex03: OK | ex04: OK
+  *fixed in post, ex01 compiles properly, remember to initialize variables
