@@ -15,7 +15,8 @@ void	ft_putchar(char c);
 int		main(int argc, char **argv)
 {
 	int index;
-
+	
+	index = 0; //Forgot to initialize, resulted in compiler error
 	while (argv[0][index] != '\0')
 	{
 		ft_putchar(argv[0][index]);
