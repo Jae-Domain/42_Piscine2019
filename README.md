@@ -34,3 +34,8 @@ Day 06:
 ex00: OK |  ̶e̶x̶0̶1̶:̶ ̶D̶o̶e̶s̶ ̶n̶o̶t̶ ̶c̶o̶m̶p̶i̶l̶e̶ ̶ | ex02: OK | ex03: OK | ex04: OK
 
   *fixed in post, ex01 compiles properly, remember to initialize variables
+  
+Day 07:
+
+ex00: OK | ex01: OK | ex02: OK | ex03: KO (FIXED) | ex04: Segmentation fault | ex05: Segmentation fault | ex06: Nothing turned in | ex07: Nothing turned in
+ * ex03 fixed, arguments do not include program name, remember to push your final files!
