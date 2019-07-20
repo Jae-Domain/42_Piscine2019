@@ -22,7 +22,7 @@ char	*ft_concat_params(int argc, char **argv)
 	str = malloc(argc);
 	i = 0;
 	j = 0;
-	while (++i < argc)
+	while (++i < argc) //Fixed, start argv[] count at 1!
 	{
 		k = 0;
 		while (argv[i][k] != '\0')
